@@ -1,0 +1,21 @@
+//model translation scale rotation...
+models/Medieval_building.obj 0,0,0
+models/ChessKing.obj -4.0,0.0,4.0 0.25,0.25,0.25
+models/ChessKnight.obj -4.0,0.0,2.5 0.25,0.25,0.25
+models/ChessKnight.obj -3.5,0.0,3.5 0.25,0.25,0.25
+models/ChessRook.obj -5.0,0.0,0.0 0.25,0.25,0.25
+//Pawns
+models/ChessPawn.obj 3.0,0.0,3.0 0.25,0.25,0.25
+models/ChessPawn.obj 2.0,0.0,3.0 0.25,0.25,0.25
+models/ChessPawn.obj 1.0,0.0,3.0 0.25,0.25,0.25
+models/ChessPawn.obj 0.0,0.0,3.0 0.25,0.25,0.25
+models/ChessPawn.obj 3.0,0.0,2.0 0.25,0.25,0.25
+models/ChessPawn.obj 3.0,0.0,1.0 0.25,0.25,0.25
+models/ChessPawn.obj 3.0,0.0,0.0 0.25,0.25,0.25
+//Queen Objects
+models/ChessQueen.obj 4.0,0.0,-4.0 0.25,0.25,0.25
+models/ChessBishop.obj 4.0,0.0,-2.5 0.25,0.25,0.25
+models/ChessBishop.obj 3.0,0.0,-3.5 0.25,0.25,0.25
+models/ChessRook.obj 0.0,0.0,-5.0 0.25,0.25,0.25
+//Floor Plane
+models/plane.obj 0.0,0.0,0.0
